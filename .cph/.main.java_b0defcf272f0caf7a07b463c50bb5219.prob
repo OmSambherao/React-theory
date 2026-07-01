@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/Users/omsambheraoo/Desktop/reactJS/main.java","tests":[{"id":1782768957148,"input":"4 10\n7 2 3 9\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/omsambheraoo/Desktop/reactJS/main.java","group":"local","local":true}

@@ -1,0 +1,42 @@
+body{
+
+  margin:0; padding: 0;
+  background-color: rgb(36, 36, 36);
+}
+
+.container{
+
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.cart{
+  width: 200px;
+  margin: 10px;
+  padding: 40px;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 8px;
+  background-color: rgb(119, 114, 114);
+  justify-content: center;
+  color: aliceblue;
+
+}
+
+.cart p {
+  color: rgb(16, 16, 16);
+}
+
+.cart button{
+  background-color: brown;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10% ;
+}
+
+.cart img{
+  width: 200px;
+  height: 200px;
+  border-radius: 4px;
+  border-radius: 50%;
+}
